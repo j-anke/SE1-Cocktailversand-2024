@@ -1,6 +1,6 @@
 // Meta
-:project-name: <Projektthema (T00)>
-:project-system-name: <Projektname-System>
+:project-name: Cocktailversand 2025
+:project-system-name: MyCocktail25
 // Settings:
 :toc:
 :toc-title: Inhaltsverzeichnis
